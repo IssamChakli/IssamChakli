@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Issam 
 
-<!--
-**IssamChakli/IssamChakli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning backend development with Go and exploring cloud-native systems.
 
-Here are some ideas to get you started:
+## Focus Areas
+- Go (Golang)
+- Backend APIs
+- Docker and containers
+- Cloud-native tools
+- Open source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goal
+Build a strong foundation in backend engineering and contribute to open source projects.
+
+## Interests
+- Backend systems
+- Developer tools
+- Distributed systems
+- Infrastructure and reliability
